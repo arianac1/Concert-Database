@@ -1,2 +1,2 @@
 # Concert-Database
-SQL database of concerts I attended.
+SQL database of concerts attended.
